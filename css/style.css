@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+ 
+     background-color: black; 
+}
+h1{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(10, 10, 10);
+    text-align:center;
+    color: chocolate;
+    margin-bottom: -5px;
+}
+.fondo{
+width: 100%;
+}
+article{
+    background-color: black;
+}
+.mt-20{
+    margin-top: 100px;
+}
+.descripcion{
+    color: cornsilk;
+    margin-bottom: 40px;
+}
+.pre{
+    text-align: center;
+}
+.fTarjeta{
+    background-color:rgb(12, 2, 2);
+}
+.Ttarjeta{
+color: cornsilk;
+}
+.bordes{
+    border-color: black;
+}
+
+.final{
+    display: flex;
+    justify-content:flex-start ;
+    align-items: flex-end;
+}
+.cuadro{
+    max-width: 30%;
+}
+h4{
+    text-align: center;
+}
+form{
+    
+    background-color: rgb(146, 148, 145);
+    margin: auto;
+    width: 40%;
+    margin-bottom: 20PX;
+}
+.inputColor{
+    border-radius:0;
+    border: none;
+    background-color: rgb(223, 224, 240);  
+}
+.enviar{
+    height: 100%;
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+color: cornsilk;
+font-size: 20px;
+background-color: rgb(20, 8, 26);
+}
+footer>a{
+    text-decoration: none;
+    color: cornsilk;
+}
